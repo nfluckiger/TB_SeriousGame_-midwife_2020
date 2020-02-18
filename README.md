@@ -1,4 +1,4 @@
-# TB_SeriusGame_midwife_2020
+# TB_SeriousGame_midwife_2020
 
 This repository is use for a degree project in the swiss IT university HEIG. 
 
